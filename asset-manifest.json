@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/token_front/static/css/main.c868e6c0.css",
+    "main.js": "/token_front/static/js/main.80250e36.js",
+    "index.html": "/token_front/index.html",
+    "main.c868e6c0.css.map": "/token_front/static/css/main.c868e6c0.css.map",
+    "main.80250e36.js.map": "/token_front/static/js/main.80250e36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c868e6c0.css",
+    "static/js/main.80250e36.js"
+  ]
+}
